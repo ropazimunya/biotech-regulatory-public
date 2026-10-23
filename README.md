@@ -36,9 +36,9 @@ analysis, and scientific project development.
 
 ### 🏛️ 01 | FDA Regulatory Essentials
 
-An academic reference document exploring FDA regulatory
-pathways for drugs, biologics, and medical devices,
-including quality management and post-market surveillance.
+**Build Fellowship Project**
+
+A project completed as part of the Build Fellowship, focused on understanding FDA regulatory pathways for drugs, biologics, and medical devices, including regulatory submissions, quality management systems, and post-market surveillance.
 
 **Topics:** IND · NDA · ANDA · BLA · eCTD · QMS · CAPA
 
