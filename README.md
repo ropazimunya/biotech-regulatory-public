@@ -1,30 +1,101 @@
-# Biotechnology and Regulatory Affairs Portfolio
+<div align="center">
 
-A collection of independently authored academic and Build Fellowship projects focused on FDA regulatory affairs, biotechnology strategy, and drug discovery.
+# 🧬 Biotechnology & Regulatory Affairs Portfolio
 
-## Research Projects
+### Ropafadzo Zimunya
 
-### 1. FDA Regulatory Essentials
-**Build Fellowship Project**
+**Biomedical Science | Drug Discovery | FDA Regulatory Affairs | Quality Assurance**
 
-A comprehensive review of FDA regulatory pathways, including IND, NDA, ANDA, electronic submissions, quality management systems, medical device regulation, and postmarket surveillance.
+![FDA](https://img.shields.io/badge/FDA-Regulatory%20Affairs-164E63?style=for-the-badge)
+![Biotech](https://img.shields.io/badge/Biotechnology-Research-087F8C?style=for-the-badge)
+![Quality](https://img.shields.io/badge/Quality-Assurance-3273B8?style=for-the-badge)
+![Discovery](https://img.shields.io/badge/Drug-Discovery-7057A3?style=for-the-badge)
 
-[View full document](FDA_Regulatory_Essentials.docx)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--3688--5027-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-3688-5027)
 
-### 2. PfTMK Malaria Drug Discovery
-**Build Fellowship Research Project**
+</div>
 
-An investigation of Plasmodium falciparum thymidylate kinase (PfTMK) as a potential antimalarial drug target, including proposed biochemical characterization and experimental validation strategies.
+---
 
-[View full document](PfTMK_Malaria_Drug_Discovery.docx)
+## 🔬 About This Portfolio
 
-### 3. FDA Investment Committee Memo
-**Independent University Assignment**
+Welcome to my academic portfolio showcasing independently
+authored projects in biotechnology, FDA regulatory affairs,
+quality assurance, and drug discovery.
 
-An academic analysis of FDA regulatory pathways and their implications for biotechnology investment decisions, development risks, and regulatory strategy.
+I am a master's student in Biotechnology Management and
+Entrepreneurship at Yeshiva University, with a background
+in medical laboratory science and clinical microbiology.
 
-[View full document](FDA_Investment_Committee_Memo.docx)
+These documents demonstrate academic research, regulatory
+analysis, and scientific project development.
 
-## Project Status
+---
 
-These documents are maintained as an academic research portfolio and remain under review. Scientific and regulatory claims may be updated as additional sources are verified.
+## 📚 Featured Projects
+
+### 🏛️ 01 | FDA Regulatory Essentials
+
+An academic reference document exploring FDA regulatory
+pathways for drugs, biologics, and medical devices,
+including quality management and post-market surveillance.
+
+**Topics:** IND · NDA · ANDA · BLA · eCTD · QMS · CAPA
+
+📄 [Read FDA Regulatory Essentials](FDA_Regulatory_Essentials.pdf)
+
+---
+
+### 📊 02 | FDA Investment Committee Memo
+
+A graduate-level academic simulation examining regulatory
+pathways and investment considerations for biotechnology
+companies developing drugs, biologics, and medical devices.
+
+**Topics:** Regulatory Strategy · Clinical Development ·
+Investment Risk · FDA Approval Pathways
+
+📄 [Read FDA Investment Committee Memo](FDA_Investment_Committee_Memo.pdf)
+
+---
+
+### 🧪 03 | PfTMK Malaria Drug Discovery
+
+A Build Fellowship project presenting a literature-informed,
+proposed drug-discovery workflow targeting Plasmodium
+falciparum thymidylate kinase (PfTMK).
+
+The proposed experiments are not represented as
+laboratory work performed by the author.
+
+**Topics:** Antimalarial Research · Drug Discovery ·
+Biochemical Assays · Structural Biology
+
+📄 [Read PfTMK Malaria Drug Discovery](PfTMK_Malaria_Drug_Discovery.pdf)
+
+---
+
+## 🎯 Research Interests
+
+- Clinical Microbiology and Infectious Diseases
+- Biomedical Research and Drug Discovery
+- Structural and Computational Biology
+- FDA Regulatory Affairs
+- Laboratory Quality Control and Quality Assurance
+- Translational Biotechnology
+
+---
+
+## 🔗 Researcher Profile
+
+**ORCID:** https://orcid.org/0009-0009-3688-5027
+
+**GitHub:** https://github.com/ropazimunya
+
+---
+
+<div align="center">
+
+*Academic research portfolio | Ropafadzo Zimunya*
+
+</div>
